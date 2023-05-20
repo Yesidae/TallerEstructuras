@@ -1,6 +1,6 @@
 ﻿using Taller.Logic;
 
-Console.WriteLine("****Matrix Multiplicatión****");
+Console.WriteLine("****1. Matrix Multiplicatión****");
 
 Console.Write("Ingrese el valor de m: ");
 int m = Convert.ToInt32(Console.ReadLine());

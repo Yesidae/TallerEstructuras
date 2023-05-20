@@ -5,33 +5,33 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultMat.Logic", "Taller.Logic\MultMat.Logic.csproj", "{5B22DECA-0261-4267-B037-87FB5452A3B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultMat.UI", "Taller.UI\MultMat.UI.csproj", "{B88120C6-6CF3-4162-ADEE-949C0BA9FEA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultMat.UI", "Taller.UI\MultMat.UI.csproj", "{B88120C6-6CF3-4162-ADEE-949C0BA9FEA9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MatrixMultiplication", "MatrixMultiplication", "{93D751BE-AFEF-4309-B723-04E347A4B7CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hourglass", "Hourglass", "{896675DC-A0BD-40F8-84F2-B00317EF20BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass.Logic", "HourGlass.Logic\HourGlass.Logic.csproj", "{BD40EDA9-F047-43F9-A3BA-4E7F0749DC5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourGlass.Logic", "HourGlass.Logic\HourGlass.Logic.csproj", "{BD40EDA9-F047-43F9-A3BA-4E7F0749DC5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HourGlass.UI", "HourGlass.UI\HourGlass.UI.csproj", "{F225AE71-EF35-4715-9A0E-31CB6AAF2065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HourGlass.UI", "HourGlass.UI\HourGlass.UI.csproj", "{F225AE71-EF35-4715-9A0E-31CB6AAF2065}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factors", "Factors", "{EF6AD46A-7874-48B8-9D2A-0209652DEA11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DescomposeFactor.Logic", "DescomposeFactor.Logic\DescomposeFactor.Logic.csproj", "{B36B3C5D-AC1D-4444-AB2E-F9EDEC738AE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DescomposeFactor.Logic", "DescomposeFactor.Logic\DescomposeFactor.Logic.csproj", "{B36B3C5D-AC1D-4444-AB2E-F9EDEC738AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factors.UI", "Factors.UI\Factors.UI.csproj", "{4731708F-F933-4A4B-9CBA-6ED410F26D93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factors.UI", "Factors.UI\Factors.UI.csproj", "{4731708F-F933-4A4B-9CBA-6ED410F26D93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HarvestInHorse", "HarvestInHorse", "{4952C07A-1D7F-4C84-B7E8-38F6F041A750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestInHorse.Logic", "HarvestInHorse.Logic\HarvestInHorse.Logic.csproj", "{812B17A3-9EAE-4DBC-9C26-D00407EBA691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarvestInHorse.Logic", "HarvestInHorse.Logic\HarvestInHorse.Logic.csproj", "{812B17A3-9EAE-4DBC-9C26-D00407EBA691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarvestInHouse.UI", "HarvestInHouse.UI\HarvestInHouse.UI.csproj", "{9CF85FC8-1119-42A4-B222-4BBFAB017981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarvestInHouse.UI", "HarvestInHouse.UI\HarvestInHouse.UI.csproj", "{9CF85FC8-1119-42A4-B222-4BBFAB017981}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConflicHorses", "ConflicHorses", "{46FF1CAD-34D7-46C9-9B40-3F35C8C5BEDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorsesInConflict.Logic", "HorsesInConflict\HorsesInConflict.Logic.csproj", "{13919378-B4D4-4705-B100-7283378B05C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HorsesInConflict.Logic", "HorsesInConflict\HorsesInConflict.Logic.csproj", "{13919378-B4D4-4705-B100-7283378B05C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorsesInConflict.UI", "HorsesInConflict.UI\HorsesInConflict.UI.csproj", "{E803F65F-F7E3-4246-A891-B2F9D7C79305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HorsesInConflict.UI", "HorsesInConflict.UI\HorsesInConflict.UI.csproj", "{E803F65F-F7E3-4246-A891-B2F9D7C79305}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
